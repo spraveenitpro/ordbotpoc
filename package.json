@@ -1,0 +1,16 @@
+{
+  "name": "ordbotpoc",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "Demo for OrdinalsBOT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Praveen selva",
+  "license": "MIT",
+  "dependencies": {
+    "ordinalsbot": "^0.2.15",
+    "qs": "^6.13.0"
+  }
+}
