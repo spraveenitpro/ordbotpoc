@@ -5,7 +5,7 @@ import {Inscription} from "ordinalsbot";
  * Allowed environments are ('testnet', 'mainnet', 'signet')
  * default environment is 'mainnet'.
  */
-const inscription = new Inscription("", "mainnet");
+const inscription = new Inscription("2d6242a2-c2b1-4909-8dab-f6fd057053a5", "mainnet");
 
 /**
  *
